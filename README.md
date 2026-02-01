@@ -100,4 +100,4 @@ Codul este structurat pentru a explica câteva concepte de bază:
 5.  Upload the code.
 
 ---
-*Created by [Your Name/Handle] for educational purposes.*
+*Created by Cristian for Aself educational purposes.*
